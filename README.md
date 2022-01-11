@@ -11,9 +11,20 @@ A simple yet powerful webpack boilerplate
 
 ## Getting Started
 
-- Run this command in your OS terminal: `git@github.com:marilirulita/Webpack-SetUp.git` to get a copy of the project.
+- Run this command in your OS terminal to get a copy of the project:
+
+  ```
+  git@github.com:marilirulita/Webpack-SetUp.git
+  ```
+
 - Open the folder project from your code editor.
-- Run `npm install`
+
+- Run:
+
+  ```
+  npm install
+  ```
+  
 - From the root folder run start command to see the project on browser: 
 
   ```
@@ -29,9 +40,9 @@ A simple yet powerful webpack boilerplate
 #### Mar Bautista
 GitHub: [marilirulita](https://github.com/marilirulita)
 
-Twitter: [@marylirulita](https://twitter.com/marylirulita)
-
 LinkedIn: [mar bautista](https://www.linkedin.com/in/marbautista/)
+
+Twitter: [@marylirulita](https://twitter.com/marylirulita)
 
 ## 🤝 Contributing
 
